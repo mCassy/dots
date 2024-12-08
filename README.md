@@ -15,7 +15,7 @@
 - WM: [Aerospace](https://github.com/nikitabobko/AeroSpace)
 - Shell: [fish](https://fishshell.com/)
 - Prompt: [Starship](https://starship.rs/)
-- Terminal Emulator: [Alacritty](https://alacritty.org/index.html)
+- Terminal Emulator: [Ghostty](https://github.com/ghostty-org/ghostty)
 - Terminal font: [CaskaydiaCove Nerd Font](https://github.com/eliheuer/caskaydia-cove)
 - Multiplexer: [tmux](https://github.com/tmux/tmux/wiki)
 - Tmux Session Manager: [tmuxinator](https://github.com/tmuxinator/tmuxinator)
@@ -26,4 +26,3 @@
 #### Preview
 
 ![image](https://github.com/user-attachments/assets/d3cb5971-25d2-4737-b919-59c1dc4d13e8)
-
